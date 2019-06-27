@@ -1,4 +1,4 @@
-# LDA
+# LDA : Latent Dirichlet Allocation
 This python script can be used to identify the topics covered in text(s) files/
 
 
