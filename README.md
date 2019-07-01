@@ -43,3 +43,4 @@ LDA:
 
 
 Reference : https://github.com/raffg/harry_potter_nlp
+Data : https://www.biblestudytools.com/bible-stories/bible-story-of-job.html
